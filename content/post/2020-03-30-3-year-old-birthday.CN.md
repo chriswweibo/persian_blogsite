@@ -9,7 +9,7 @@ tags:
   - Muqian
 description: ''
 images:
-  - img/post_img/3year.jpg
+  - images/post_img/3year.jpg
 type: post
 ---
 

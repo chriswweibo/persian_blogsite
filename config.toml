@@ -58,15 +58,15 @@ name = "Contact"
 URL = "contact"
 weight = 4
 
-[[menu.main]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 5
+# [[menu.main]]
+# name = "Privacy Policy"
+# URL = "privacy-policy"
+# weight = 5
 
 
 #################### default parameters ################################
 [params]
-logo = "img/logo.png"
+logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
 author = "Bo Wei"
