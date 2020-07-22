@@ -49,8 +49,8 @@ URL = "about"
 weight = 2
 
 [[menu.main]]
-name = "Category"
-URL = "categories/nature/"
+name = "Post"
+URL = "post"
 weight = 3
 
 [[menu.main]]
