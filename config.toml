@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.example.com"
+baseURL = "https://memoreal.cc"
 title = "Persian"
 theme = "persian-hugo"
 languageName = "En"
