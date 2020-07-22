@@ -9,7 +9,7 @@ tags:
   - Muqian
 description: ''
 images:
-  - images/post/manman_childrensday_3.jpg
+  - /images/post/manman_childrensday_3.jpg
 ---
 
 The first day, we went the Beijing Zoo, a 6 hour's tour. The second day we visited the Great Wall, which the S2 train got more attraction from Manman. The last day, we went the photo studi for his 3 year's album.
